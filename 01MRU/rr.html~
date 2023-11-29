@@ -1,0 +1,18 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html;
+      charset=windows-1252">
+    <title> mobile </title>
+    <meta name="viewport" content="width=device-width">
+  </head>
+  <body link="#0000EE" vlink="#551A8B" text="#000000" bgcolor="#99ffff"
+    alink="#EE0000">
+    <p><font size="+2">rr.- Tenemos un coche que se mueve a 25m/s y está
+        a 100km de una ciudad o otro coche que está a 150km de la misma
+        ciudad y se mueve a 120km/h. Calcula el tiempo del que llega
+        primero<br>
+        <a href="control.html"><font size="+3"><b>AVANZA</b></font></a>
+      </font></p>
+  </body>
+</html>

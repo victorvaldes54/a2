@@ -1,0 +1,10 @@
+rm.- Un autobús recorre 120km en 1,2horas. Calcula su velocidad
+ru.-Dos personas salen en bicicleta, la primera recorre 35km en 30minutos, la segunda recorre 50km en 40minutos. Calcula la velocidad del más rápido 
+rr.- Tenemos un coche que se mueve a 25m/s y está a 100km de una ciudad o otro coche que está a 150km de la misma ciudad y se mueve a 120km/h. Calcula el tiempo del que llega primero
+rc.- Un corredor se mueve a 3,33m/s y tiene que recorrer 6km. Calcula cuanto tiempo tarda
+ri.-La marathon son 42km, un corredor lleva una velocidad de 12km/h. Calcula cuanto tiempo tarda 
+re.- Si sales de casa andando a 6km/h. Calcula cuanto recorres en 25minutos
+rl.- Un caracol se mueve a 0,02m/s. Calcula cuanto recorre en 1minuto
+ra.-Un tren sale de la estación, lleva una velocidad de 85km/h. Calcula cuanto tiempo emplea en llegar a una ciudad que está a 250km 
+rg-Un jugador de futbol recorre la banda que tiene 100m de largo en 15s. Calcula su velocidad 
+ro-Se produce un disparo, calcula cuanto tiempo tarda en escuchar el sonido una persona que está a 500m. 
